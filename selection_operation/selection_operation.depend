@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1684759290 source:e:\by sojib\cpp_c codes\selection_operation\consdes.cpp
+	"consdes.h"
+	<bits/stdc++.h>
+
+1684759290 e:\by sojib\cpp_c codes\selection_operation\consdes.h
+	"consdes.h"
+

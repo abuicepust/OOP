@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1684757032 source:e:\by sojib\cpp_c codes\constructor_destructor\main.cpp
+	<iostream>
+	"consdes.h"
+
+1684757221 e:\by sojib\cpp_c codes\constructor_destructor\consdes.h
+	"consdes.h"
+
+1684757253 source:e:\by sojib\cpp_c codes\constructor_destructor\consdes.cpp
+	"consdes.h"
+	<bits/stdc++.h>
+
