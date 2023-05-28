@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1685292552 source:e:\by sojib\cpp_c codes\friendclass\main.cpp
+	<iostream>
+	"friend.h"
+
+1685292958 e:\by sojib\cpp_c codes\friendclass\friend.h
+	"friend.h"
+
+1685293018 source:e:\by sojib\cpp_c codes\friendclass\friend.cpp
+	"friend.h"
+	<bits/stdc++.h>
+
