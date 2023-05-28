@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1685275428 source:e:\by sojib\cpp_c codes\abstraction\main.cpp
+	<iostream>
+	"abs.h"
+
+1685275602 e:\by sojib\cpp_c codes\abstraction\abs.h
+	"abs.h"
+
